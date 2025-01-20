@@ -1,0 +1,6 @@
+requests
+scapy
+python3-nmap
+paramiko
+beautifulsoup4
+hashlib
